@@ -1,4 +1,6 @@
 import java.io.*;
+import java.util.Stack;
+
 class Node{
 		String keyWord;
 		String meaningValue;
@@ -57,7 +59,7 @@ class BinaryTree{
 		
 			if(root==null){
 				root=dataNode;
-				System.out.println("New Entry is added to Root");
+				//System.out.println("New Entry is added to Root");
 				return;
 			}
 			
@@ -71,14 +73,14 @@ class BinaryTree{
 					current = current.left;
 					if(current==null){
 						parent.left = dataNode;
-						System.out.println("New Entry is added to left child of "+Node.printKeyWord(parent));
+						//System.out.println("New Entry is added to left child of "+Node.printKeyWord(parent));
 						return;
 					}
 				}else{
 					current = current.right;
 					if(current==null){
 						parent.right = dataNode;
-						System.out.println("New Entry is added to right child of "+Node.printKeyWord(parent));
+						//System.out.println("New Entry is added to right child of "+Node.printKeyWord(parent));
 						return;
 					}
 				}
@@ -203,6 +205,39 @@ class BinaryTree{
 		return successor;
 	}
 	
+	public void findSimilarWord(String data){
+		Stack<Node> nodeStack = new Stack<Node>();
+		//BinaryTree temp = new BinaryTree();
+		String upperCase_Data = data.toUpperCase(); //convert to UPPERCASE input word
+		String meaningData = this.searchData(data);
+		String similarWords ="";
+		nodeStack.push(root);
+		
+		while(nodeStack.empty()==false){
+			Node topNode = nodeStack.pop();
+			//System.out.println(Node.printMeaningValue(topNode));
+			
+			if(topNode.meaningValue.equals(meaningData) && !(upperCase_Data.equals(topNode.keyWord))){
+				String temp =Node.printKeyWord(topNode);
+				similarWords += temp.substring(0,1).toUpperCase() + temp.substring(1).toLowerCase()+", ";
+			}
+			
+			if(topNode.right != null){
+				nodeStack.push(topNode.right);
+			}
+			
+			if(topNode.left != null){
+				nodeStack.push(topNode.left);
+			}
+		}
+		
+		if(similarWords.length()==0){
+			System.out.println("There is no any similar words");
+		}else{
+			System.out.println(similarWords.substring(0, similarWords.length()-2));
+		}
+	}
+	
 }
 
 
@@ -238,24 +273,28 @@ class Dictionery{
 			 e.printStackTrace();
 		  }
 		  
-		System.out.println(t1.searchData("snaKe"));
-		System.out.println(t1.deleteData("snaKe"));
-		System.out.println(t1.searchData("snaKe"));
-		System.out.println(t1.searchData("cat"));
-		System.out.println(t1.searchData("Me"));
-		t1.addNode("cab","xxxxxxxx");
-		t1.addNode("car","wwwwwww s s s");
-		System.out.println(t1.searchData("cab"));
-		t1.addNode("car","wwwwwww s s s");
-		System.out.println(t1.searchData("car"));
-		t1.addNode("caC","xxssxxxxxx");
-		System.out.println(t1.searchData("cac"));
-		t1.addNode("caz","xxssxxxxxx");
-		t1.addNode("cas","xxsssasaxxxxxx");
-		System.out.println(t1.searchData("cAs"));
-		System.out.println(t1.deleteData("cab"));
-		System.out.println(t1.searchData("cac"));
-		System.out.println(t1.searchData("cab"));
+		  /*System.out.println(t1.searchData("snaKe"));
+		  System.out.println(t1.deleteData("snaKe"));
+		  System.out.println(t1.searchData("snaKe"));
+		  
+		  System.out.println(t1.searchData("Me"));
+		  t1.addNode("cab","xxxxxxxx");
+		  t1.addNode("car","wwwwwww s s s");
+		  System.out.println(t1.searchData("cab"));
+		  t1.addNode("car","wwwwwww s s s");
+		  System.out.println(t1.searchData("car"));
+		  t1.addNode("caC","xxssxxxxxx");
+		  System.out.println(t1.searchData("cac"));
+		  t1.addNode("caz","xxssxxxxxx");
+		  t1.addNode("cas","xxsssasaxxxxxx");
+		  System.out.println(t1.searchData("cAs"));
+		  System.out.println(t1.deleteData("cab"));
+		  System.out.println(t1.searchData("cac"));
+		  System.out.println(t1.searchData("cab"));*/
+		  t1.findSimilarWord("dog");
+		  t1.findSimilarWord("puppy");
+		  System.out.println(t1.searchData("cat"));
+		
 	 }
 }
 
