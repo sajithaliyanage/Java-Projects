@@ -1,0 +1,5 @@
+Snake-When the new word is searched SNAKE
+Dog-When the new word is searched DOG
+Frog-When the new word is searched FROG
+Book-When the new word is searched BOOK
+Cat-When the new word is searched CAT
