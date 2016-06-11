@@ -1,0 +1,9 @@
+Snake-When the new word is searched SNAKE
+SAjitha-When the new word is searched SNAKE
+Dog-When the new word is searched DOG
+Frog-When the new word is searched FROG
+Book-When the new word is searched BOOK
+Cat-a carnivorous mammal long domesticated as a pet and for catching rats and mice 
+hound-When the new word is searched DOG
+puppy-When the new word is searched DOG
+Asha-When the new word is searched DOG
