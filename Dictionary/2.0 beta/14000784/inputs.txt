@@ -1,0 +1,87 @@
+AMELIORATE-make (something bad or unsatisfactory) better.
+ALLEVIATE-make (suffering, deficiency, or a problem) less severe.
+ACERBIC-(especially of a comment or style of speaking) sharp and forthright.
+ADVISOR-a person who gives advice in a particular field.
+ALOOF-not friendly or forthcoming; cool and distant.
+FIERCE-having or displaying a violent or ferocious aggressiveness.
+BOISTEROUS-noisy, energetic, and cheerful.
+ASCERTAIN-find (something) out for certain; make sure of.
+AMOROUS-showing, feeling, or relating to sexual desire.
+ARGUMENT-an exchange of diverging or opposite views, typically a heated or angry one.
+BOGUS-not genuine or true
+AUSTERITY-sternness or severity of manner or attitude
+BIBLIOGRAPHICAL-A list of the written sources of information on a subject
+CONSPIRACY-a secret plan by a group to do something unlawful or harmful.
+CONFESSION-the acknowledgment of one's sins (sinfulness) or wrongs.
+COMPLEMENTARY-combining in such a way as to enhance or emphasize the qualities of each other or another
+BOLSTER-a long, thick pillow that is placed under other pillows for support.
+CONFERENCE-a dessert pear of a firm
+CONCISELY-expressing or covering much in few words
+CONSISTENT-acting or done in the same way over time, especially so as to be fair or accurate.
+EXACERBATE-make (a problem, bad situation, or negative feeling) worse.
+CONSTITUTION-a set of fundamental principles or established precedents according to which a state or other organization is governed.
+ENTHUSIASM-intense and eager enjoyment, interest, or approval.
+DETERIORATE-become progressively worse.
+DELICIOUS-highly pleasant to the taste.
+CURIOSITY-a strong desire to know or learn something.
+CONTEMPORARY-living or occurring at the same time
+CONVENTIONAL-based on or in accordance with what is generally done or believed.
+CONVERSATION-a talk, especially an informal one, between two or more people, in which news and ideas are exchanged.
+CRITICISM-the expression of disapproval of someone or something on the basis of perceived faults or mistakes.
+CRITICAL-expressing adverse or disapproving comments or judgements.
+CURSORY-hasty and therefore not thorough or detailed.
+DELIGHTFUL-having the pleasant taste characteristic of sugar or honey; not salt, sour, or bitter
+EFFECTIVE-successful in producing a desired or intended result.
+ECCENTRIC-unconventional and slightly strange.
+DIFFIDENCE-modesty or shyness resulting from a lack of self
+DIALOGUE-a talk, especially an informal one, between two or more people, in which news and ideas are exchanged.
+ENGAGE-occupy or attract (someone's interest or attention).
+EMINENCE-fame or acknowledged superiority within a particular sphere.
+ENDEAVOR-try hard to do or achieve something.
+EXECUTIVE-a person or group of persons having administrative or supervisory authority in an organization
+FASTIDIOUS-very attentive to and concerned about accuracy and detail.
+FANCIFUL-over
+PROPHETIC-accurately predicting what will happen in the future.
+NORMAL-conforming to the standard or the common type
+MITIGATE-make (something bad) less severe, serious, or painful.
+INTEREST-the feeling of wanting to know or learn about something or someone.
+FRESH-not previously known or used; new or different.
+FORTUITOUS-happening by chance rather than intention.
+FLEXIBILITY-the quality of bending easily without breaking
+HOSTESS-a woman who receives or entertains guests. 
+FRUGALITY-the quality of being economical with money or food; thriftiness.
+HARD-solid, firm, and rigid; not easily broken, bent, or pierced.
+GALAXY-a system of millions or billions of stars, together with gas and dust, held together by gravitational attraction.
+INNOVATION-the action or process of innovating.
+INDECOROUS-not in keeping with good taste and propriety; improper.
+METICULOUS-showing great attention to detail; very careful and precise.
+MAJESTY-impressive beauty, scale, or stateliness.
+MYSTERIOUS-difficult or impossible to understand, explain, or identify.
+POLEMICAL-of or involving strongly critical or disputatious writing or speech.
+NOVEL-a fictitious prose narrative of book length, typically representing character and action with some degree of realism.
+NOTORIETY-the state of being famous or well known for some bad quality or deed.
+OBSOLETE-no longer produced or used; out of date
+OVERSHADOW-tower above and cast a shadow over.
+ORTHODOX-following or conforming to the traditional or generally accepted rules or beliefs of a religion, philosophy, or practice.
+PASSIONATE-having, showing, or caused by strong feelings or beliefs.
+PLACID-not easily upset or excited.
+PELLUCID-easily understood; lucid.
+PRECARIOUS-not securely held or in position; dangerously likely to fall or collapse.
+PROLIXITY-extended to great, unnecessary, or tedious length; long and wordy
+VIRTUAL-almost or nearly as described, but not completely or according to strict definition.
+STEWARDESS-a woman flight attendant.
+RESTIVE-(of a person) unable to remain still, silent, or submissive, especially because of boredom or dissatisfaction.
+RATIONAL-based on or in accordance with reason or logic.
+RESEARCH-the systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions.
+REFERENCE-the action of mentioning or alluding to something.
+SKITTISH-nervous or excitable; easily scared.
+TYPICAL-having the distinctive qualities of a particular type of person or thing.
+TASTY-having a pleasant, distinct flavour.
+SWEET-having the pleasant taste characteristic of sugar or honey; not salt, sour, or bitter
+STINGINESS-unwilling to share, give, or spend possessions or money
+TACITURNITY-the trait of reticence, of seeming aloof and uncommunicativ
+TOLERANCE-the ability or willingness to tolerate the existence of opinions or behaviour that one dislikes or disagrees with.
+TEMPERANCE-abstinence from alcoholic drink.
+TUMULTUOUS-making an uproar or loud, confused noise.
+YUMMY-having a pleasant, distinct flavour.
+VOLUBILITY-the quality of talking fluently, readily, or incessantly; talkativeness
